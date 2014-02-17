@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "mnix@docuverse.de",
+            "name": "Markus Nix",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Math_BinaryUtils": "./"
+        }
+    },
+    "description": "More info available on: http://pear.php.net/package/Math_BinaryUtils",
+    "include-path": [
+        "./"
+    ],
+    "license": "LGPL",
+    "name": "pear/math_binaryutils",
+    "support": {
+        "issues": "http:///bugs/search.php?cmd=display&package_name[]=Math_BinaryUtils",
+        "source": "https://github.com/pear/Math_BinaryUtils"
+    },
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
